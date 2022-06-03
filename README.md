@@ -2,8 +2,10 @@
 <br /> Now I'm computer engineering student at King Mongkut's Institute of Technology Ladkrabang
 </p>
 
-## Programming Language🖥️
+## My Programming Skills🖥️
 <img src="1200px-Python-logo-notext.svg.png" alt="Python" width=32>
+
+## Certification📜
 
 ## Contact📨
 - [Facebook](https://www.facebook.com/phrit.kungz.3) 
