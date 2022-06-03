@@ -3,7 +3,7 @@
 </p>
 
 ## Programming Language🖥️
-<img src="1200px-Python-logo-notext.svg.png" width=32>
+<img src="1200px-Python-logo-notext.svg.png" alt="Python" width=32>
 
 ## Contact📨
 - [Facebook](https://www.facebook.com/phrit.kungz.3) 
