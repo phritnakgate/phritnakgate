@@ -3,7 +3,8 @@
 </p>
 
 ## My Programming Skills🖥️
-<img src="1200px-Python-logo-notext.svg.png" alt="Python" width=32><img src="HTML5.png" alt="HTML5" width=32>
+
+<img src="1200px-Python-logo-notext.svg.png" alt="Python" width=32><img src="HTML5.png" alt="HTML5" width=32><img src="css3.png" alt="CSS3" width=23>
 
 
 ## Certification📜
