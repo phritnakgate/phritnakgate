@@ -7,7 +7,7 @@
 <a link href="https://github.com/stars/phritnakgate/lists/python"><img src="1200px-Python-logo-notext.svg.png" alt="Python" width=32></a>
 <a link href="https://github.com/stars/phritnakgate/lists/webdev"><img src="HTML5.png" alt="HTML5" width=32></a>
 <a link href="https://github.com/stars/phritnakgate/lists/webdev"><img src="css3.png" alt="CSS3" width=23></a>
-<a link href="https://github.com/stars/phritnakgate/lists/webdev"><img src="jslogo.png" alt="Javascript" width=32></a>
+<a link href="https://github.com/stars/phritnakgate/lists/webdev"><img src="jslogo2.png" alt="Javascript" width=26></a>
 
 
 ## Certification📜
