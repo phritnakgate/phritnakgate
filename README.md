@@ -8,6 +8,7 @@
 <a link href="https://github.com/stars/phritnakgate/lists/webdev"><img src="HTML5.png" alt="HTML5" width=32></a>
 <a link href="https://github.com/stars/phritnakgate/lists/webdev"><img src="css3.png" alt="CSS3" width=23></a>
 <a link href="https://github.com/stars/phritnakgate/lists/webdev"><img src="jslogo2.png" alt="Javascript" width=26></a>
+<img src="C_Logo.png" alt="C" width=26>
 
 
 ## Certification📜
