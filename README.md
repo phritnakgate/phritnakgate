@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phrit Nakgate(Boss)</h1>
 <h3 align="center">Now I'm computer engineering student at King Mongkut's Institute of Technology Ladkrabang</h3>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/phritkungz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phritkungz" height="30" width="40" /></a>
