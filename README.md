@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phrit Nakgate(Boss)</h1>
 <h3 align="center">Now I'm computer engineering student at King Mongkut's Institute of Technology Ladkrabang</h3>
 
-- 🌱 I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
