@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="cow_boobs.gif"  />
+<img align="right" height="150" src="bobs-burger-tina-belcher.gif"  />
 
 ###
 
