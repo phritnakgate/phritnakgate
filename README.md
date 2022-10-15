@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/hi-hello-cow-dance-gif-17271363"  />
+<img align="right" height="150" src="cow_boobs.gif"  />
 
 ###
 
