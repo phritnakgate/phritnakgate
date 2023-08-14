@@ -45,4 +45,6 @@
 <h3 align="left">Certifications</h3>
 
 ###
-[Hackerrank Basic SQL](https://www.hackerrank.com/certificates/c6fe566bd1d4)
+- [Hackerrank Basic SQL](https://www.hackerrank.com/certificates/c6fe566bd1d4)
+- [Hackerrank Basic Java](https://www.hackerrank.com/certificates/20da508f66cd)
+
