@@ -45,4 +45,4 @@
 <h3 align="left">Certifications</h3>
 
 ###
-[Hackerrank Basic SQL](https://www.hackerrank.com/certificates/iframe/20da508f66cd)
+[Hackerrank Basic SQL](https://www.hackerrank.com/certificates/c6fe566bd1d4)
