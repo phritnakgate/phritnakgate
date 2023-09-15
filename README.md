@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋! My name is Phrit Nakgate(Boss)</h2>
 <p align="center">Now I'm Computer Engineering Student at King Mongkut's Institute of Technology Ladkrabang</p>
+<p align="center">I'm interested in Mobile App Developer.</p>
 
 ###
 
